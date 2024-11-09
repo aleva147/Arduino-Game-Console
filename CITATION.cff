@@ -1,0 +1,36 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: Realization of computer games using a microcontroller
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Aleksandar
+    family-names: Vagner
+    affiliation: >-
+      University of Belgrade - School of Electrical
+      Engineering
+repository-code: 'https://github.com/aleva147/Arduino-Game-Console'
+abstract: >-
+  Game console built using an Arduino UNO R3 microcontroller
+  board as its core with a small set of popular and simple
+  games.
+keywords:
+  - arduino
+  - arduino uno
+  - gaming
+  - game console
+  - video game console
+  - joystick
+  - display
+  - screen
+  - buzzer
+  - snake
+  - pong
+  - flappy bird
+license: GPL-3.0+
+version: '1.0'
+date-released: '2024-11-08'
