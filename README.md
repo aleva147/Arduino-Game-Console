@@ -1,4 +1,4 @@
-# Realization of computer games using a microcontroller
+# Computer games design based on the application of a microcontroller
 This software was developed as a result of my Bachelor Thesis under the mentorship of [Assoc. Prof. Nadica Miljković](https://www.etf.bg.ac.rs/en/faculty/staff/nadica-miljkovic-4323) from the [University of Belgrade - School of Electrical Engineering](https://www.etf.bg.ac.rs/en) defended on September 24, 2024.
 
 A video that demonstrates all the features of the finished project is available on [YouTube](https://www.youtube.com/) (Google LLC, San Bruno, California, USA) and it can be accessed via the following [link](https://youtu.be/TDOLidR57ME).
@@ -115,8 +115,8 @@ In the two-player version, each player has his/hers own bird and the birds need 
 ***
 ### 5. Citing Instructions
 If you find this software useful, please cite my bachelor thesis and this repository as:
-+ Vagner, A. (2024). Realization of computer games using a microcontroller. *Bachelor Thesis, University of Belgrade - School of Electrical Engineering*, mentor: Dr. Nadica Miljković.
-+ Vagner, A. (2024). Realization of computer games using a microcontroller (Version 1.0) [Computer software]. https://github.com/aleva147/Arduino-Game-Console, Accessed on November 8, 2024.
++ Vagner, A. (2024). Computer games design based on the application of a microcontroller. *Bachelor Thesis, University of Belgrade - School of Electrical Engineering*, mentor: Dr. Nadica Miljković.
++ Vagner, A. (2024). Computer games design based on the application of a microcontroller (Version 1.0) [Computer software]. https://github.com/aleva147/Arduino-Game-Console, Accessed on November 8, 2024.
 
 
 CONTACT: Aleksandar Vagner ([LinkedIn](http://linkedin.com/in/aleksandarvagner))
