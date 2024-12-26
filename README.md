@@ -1,5 +1,5 @@
 # Computer games design based on the application of a microcontroller
-This software was developed as a result of my Bachelor Thesis under the mentorship of [Assoc. Prof. Nadica Miljković](https://www.etf.bg.ac.rs/en/faculty/staff/nadica-miljkovic-4323) from the [University of Belgrade - School of Electrical Engineering](https://www.etf.bg.ac.rs/en) defended on September 24, 2024.
+This software was developed as a result of my Bachelor Thesis titled "Computer games design based on the application of a microcontroller" under the mentorship of [Assoc. Prof. Nadica Miljković](https://www.etf.bg.ac.rs/en/faculty/staff/nadica-miljkovic-4323) from the [University of Belgrade - School of Electrical Engineering](https://www.etf.bg.ac.rs/en) defended on September 24, 2024.
 
 A video that demonstrates all the features of the finished project is available on [YouTube](https://www.youtube.com/) (Google LLC, San Bruno, California, USA) and it can be accessed via the following [link](https://youtu.be/TDOLidR57ME).
 
