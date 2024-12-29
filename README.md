@@ -59,7 +59,7 @@ The image below shows how the hardware should be assembled. It was created using
 
 ![Assembled hardware](https://github.com/user-attachments/assets/c13ae912-dec7-459c-b54e-ff488e90118c)
 
-To run the available source code Arduino UNO or UNO R3 hardware, following steps are requires:
+To run the available source code on Arduino UNO or UNO R3 hardware, following steps are requires:
 + Download the code as a ZIP archive and extract its contents.
 + Move the [Console.ino](https://github.com/aleva147/Arduino-Game-Console/blob/main/Console/Console.ino) file to the directory where Arduino IDE stores sketches (this location can be found by opening Arduino IDE and clicking on File/Preferences).
 + Copy all of the downloaded [library folders](https://github.com/aleva147/Arduino-Game-Console/tree/main/libraries) to the libraries subfolder inside of the directory where Arduino IDE stores sketches.
