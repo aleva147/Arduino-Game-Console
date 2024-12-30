@@ -16,6 +16,7 @@ authors:
       University of Belgrade - School of Electrical
       Engineering
 repository-code: 'https://github.com/aleva147/Arduino-Game-Console'
+repository: 'https://doi.org/10.5281/zenodo.14577108'
 abstract: >-
   A simple video game console that supports single-player
   and two-player versions of games Snake, Pong and Flappy
