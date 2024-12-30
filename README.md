@@ -98,7 +98,7 @@ Before the selected game begins, a short countdown is always shown to let the pl
 ### 4. Game Controls
 
 #### Snake
-The snake will always spawn near the bottom-left corner of the screen and its initial direction will be to the right. Use the left joystick to change the direction in which the snake is heading. If the joystick is aimed diagonally, the game will not know whether to change the horizontal or vertical direction of the snake, so the snake will just continue heading in its current direction. Therefore, make sure to aim the joystick as precisely as possible to avoid undetected commands. If the snake runs into one of the walls or into its own body, the player will lose and the game will end. The player will win if he/she collects 127 apples.
+The snake will always spawn near the bottom-left corner of the screen and its initial direction will be to the right. Use the left joystick to change the direction in which the snake is heading. If the joystick is aimed diagonally, the game will not know whether to change the horizontal or vertical direction of the snake, so the snake will just continue heading in its current direction. Therefore, make sure to aim the joystick as precisely as possible to avoid undetected commands. If the snake runs into one of the walls or into its own body, the player will lose and the game will end. The player will win if they collect 127 apples.
 
 In case of a two-player game, the second snake will always spawn near the bottom left corner of the right half of the screen and its initial direction will also be to the right. Use the right joystick to navigate the second snake movements. The snakes must avoid each other while trying to collect the apples together (collaborative multi-player approach). The game will end in victory if the total length of the two snakes is the greatest possible (128).
 
@@ -110,7 +110,7 @@ The same rules apply for the two-player version of the game. The racket on the r
 #### Flappy Bird
 Each time the left joystick is clicked, the bird will fly up by one pixel and its falling speed will reset to the initial value. The longer the joystick is not pressed, the faster the bird falls. If the bird hits any of the incoming pipes or if the bird falls beneath the bottom border of the screen, the player will lose the game. To achieve victory, the bird needs to successfully pass through 50 obstacles. The game is intentionally hard, but there are no impossible pairs of incoming obstacles.
 
-In the two-player version, each player has his/hers own bird and the birds are required to pass through the incoming pipes together (collaborative multi-player approach). To control the second bird, use the right joystick. The game will be harder for the second player since the second bird is closer to the right edge of the screen and there is less time to react. If either of the two birds collides with an obstacle or falls through the bottom border of the screen, the game ends for both players.
+In the two-player version, each player has their own bird and the birds are required to pass through the incoming pipes together (collaborative multi-player approach). To control the second bird, use the right joystick. The game will be harder for the second player since the second bird is closer to the right edge of the screen and there is less time to react. If either of the two birds collides with an obstacle or falls through the bottom border of the screen, the game ends for both players.
 
 ***
 ### 5. Citing Instructions
