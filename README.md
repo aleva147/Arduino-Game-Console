@@ -119,6 +119,6 @@ In the two-player version, each player has their own bird and the birds are requ
 If you find this software useful, please cite my bachelor thesis and this repository as:
 + Vagner, A. (2024). Computer games design based on the application of a microcontroller. *Bachelor Thesis, University of Belgrade - School of Electrical Engineering*, mentor: Dr. Nadica Miljković.
 + Vagner, A. (2024). Computer games design based on the application of a microcontroller (Version 1.0) [Computer software]. https://github.com/aleva147/Arduino-Game-Console, Accessed on November 8, 2024.
-
++ Vagner, A. (2024). Computer games design based on the application of a microcontroller. Zenodo. https://doi.org/10.5281/zenodo.14577108
 
 CONTACT: Aleksandar Vagner ([LinkedIn](http://linkedin.com/in/aleksandarvagner))
