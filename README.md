@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.14577406.svg)](https://doi.org/10.5281/zenodo.14577406)
+
 # Computer games design based on the application of a microcontroller
 This software was developed as a result of my Bachelor Thesis titled "Computer games design based on the application of a microcontroller" (srp. _Реализација рачунарских игара заснована на примени микроконтролера_) under the mentorship of [Assoc. Prof. Nadica Miljković](https://www.etf.bg.ac.rs/en/faculty/staff/nadica-miljkovic-4323) from the [University of Belgrade - School of Electrical Engineering](https://www.etf.bg.ac.rs/en) defended on September 24, 2024.
 
