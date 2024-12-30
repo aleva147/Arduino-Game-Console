@@ -2,7 +2,9 @@
 # Visit https://bit.ly/cffinit to generate yours today!
 
 cff-version: 1.2.0
-title: Realization of computer games using a microcontroller
+title: >-
+  Computer games design based on the application of a
+  microcontroller
 message: >-
   If you use this software, please cite it using the
   metadata from this file.
@@ -15,9 +17,13 @@ authors:
       Engineering
 repository-code: 'https://github.com/aleva147/Arduino-Game-Console'
 abstract: >-
-  Game console built using an Arduino UNO R3 microcontroller
-  board as its core with a small set of popular and simple
-  games.
+  A simple video game console that supports single-player
+  and two-player versions of games Snake, Pong and Flappy
+  Bird. The two-player versions of games Snake and Flappy
+  Bird are based upon a unique collaborative multi-player
+  approach. Used hardware: Arduino UNO or UNO R3
+  microcontroller board, LED matrix displays, analog
+  joysticks and a buzzer. 
 keywords:
   - arduino
   - arduino uno
